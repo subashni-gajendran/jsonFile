@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Toothpaste Strawberry Mint",
             "description": "Our Kids Toothpaste delivers delightful, fruity freshness that kids love! Our fluoride-free formula helps brighten teeth, promote healthy teeth and gums, and fight tartar buildup.",
-            "image": "/path/to/img_toothpaste.jpg",
+            "image": "/assets/images/img_toothpaste.jpg",
             "tag": "All Ages",
             "brand": "The Honest Company",
             "logo" : "/assets/images/img_logo.png"
