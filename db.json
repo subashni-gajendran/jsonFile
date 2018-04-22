@@ -7,7 +7,7 @@
             "image": "/path/to/img_toothpaste.jpg",
             "tag": "All Ages",
             "brand": "The Honest Company",
-            "logo" : "/path/to/img_logo.png"
+            "logo" : "/assets/images/img_logo.png"
         },
         {
             "id": 6,
