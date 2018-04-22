@@ -58,7 +58,7 @@
             "id": 71,
             "name": "Pacifier Bracelet",
             "description": "Oh, how awful. Did he at least die painlessly? …To shreds, you say. Well, how is his wife holding up? …To shreds, you say. ",
-            "image": "/path/to/img_bracelet.jpg",
+            "image": "assets/images/img_bracelet.jpg",
             "tag": "Kids 4+",
             "brand": "The Professor Company",
             "logo" : "assets/images/img_logo.png"
