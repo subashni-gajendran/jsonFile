@@ -80,7 +80,16 @@
             "tag": "Toddler",
             "brand": "The Hubert Company",
             "logo" : "/path/to/img_logo.png"
-        }
+        },
+         {
+            "id": 734,
+            "name": "Aloe Vera Baby Wipes",
+            "description": "Bender, you risked your life to save me! And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it!",
+            "image": "/path/to/wipes.jpg",
+            "tag": "Kids 4+",
+            "brand": "The Nibbler Company",
+            "logo" : "/path/to/img_logo.png"
+        }  
             
     ]
 }
